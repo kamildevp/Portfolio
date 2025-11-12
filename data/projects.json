@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Booxit Backend",
+        "description": "RESTful API for appointment scheduling platform",
+        "githubLink": "https://github.com/kamildevp/booxit-backend",
+        "demoLink": "https://booxit-backend.kk-dev.org",
+        "techStack": [
+            "Symfony",
+            "PostgreSQL",
+            "RabbitMQ",
+            "Docker"
+        ]
+    },
+    {
+        "name": "Notification Publisher",
+        "description": "Microservice following DDD pattern for sending notifications via different channels",
+        "githubLink": "https://github.com/kamildevp/NotificationPublisher",
+        "demoLink": "https://notification-publisher.kk-dev.org",
+        "techStack": [
+            "Symfony",
+            "PostgreSQL",
+            "RabbitMQ",
+            "Docker"
+        ]
+    },
+    {
+        "name": "Booxit Frontend [In progress]",
+        "description": "Frontend for appointment scheduling platform",
+        "techStack": [
+            "Nuxt",
+            "TypeScript",
+            "Tailwind",
+            "Docker"
+        ]
+    },
+        {
+        "name": "CookSpot",
+        "description": "A web app for managing and sharing cooking recipes",
+        "githubLink": "https://github.com/kamildevp/CookSpot",
+        "demoLink": "https://cookspot.kk-dev.org",
+        "techStack": [
+            "PHP",
+            "MySQL",
+            "JavaScript",
+            "Docker"
+        ]
+    }
+]
