@@ -5,7 +5,7 @@ import PageBackground from "@/components/page-background";
 import ScrollTop from "@/components/scroll-top";
 
 const ubuntuSans = Ubuntu({
-  variable: "--font-geist-sans",
+  variable: "--font-ubuntu-sans",
   weight: "300",
   subsets: ["latin"],
 });
