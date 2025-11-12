@@ -1,0 +1,11 @@
+services:
+  node:
+    hostname: portfolio-node
+    command: sh -c "npm run build && npm start"
+    networks:
+      - proxy
+
+networks:
+  proxy:
+    name: proxy
+    external: true
