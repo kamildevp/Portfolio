@@ -29,7 +29,7 @@
         "techStack": [
             "Nuxt",
             "TypeScript",
-            "Tailwind",
+            "Tailwind CSS",
             "Docker"
         ]
     },
