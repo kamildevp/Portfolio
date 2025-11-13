@@ -3,7 +3,7 @@
         "name": "Booxit Backend",
         "description": "RESTful API for appointment scheduling platform",
         "githubLink": "https://github.com/kamildevp/booxit-backend",
-        "demoLink": "https://booxit-backend.kk-dev.org",
+        "demoLink": "https://booxit-api.kk-dev.org",
         "techStack": [
             "Symfony",
             "PostgreSQL",
