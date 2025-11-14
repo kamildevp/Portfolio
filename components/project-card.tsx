@@ -35,7 +35,7 @@ const techIcons: Record<string, JSX.Element> = {
 
 export default function ProjectsCard({project}: {project: Project}) {
   return (
-    <div className="bg-black/70 rounded-xl text-center m-1 w-full relative">
+    <div className="bg-black/70 rounded-xl text-center m-1 w-full relative border border-gray-700">
       <div className="p-2">
         <span className="text-xl md:text-2xl">{project.name}</span>
       </div>
