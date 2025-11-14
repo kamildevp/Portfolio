@@ -4,7 +4,7 @@ import LinkedinIcon from "./icons/linkedin-icon";
 export default function SocialsHeader() {
   return (
       <div 
-        className="flex flex-row gap-4 justify-center md:justify-end p-4 animate-fadeIn opacity-0"
+        className="flex flex-row gap-4 justify-center md:justify-end p-3 md:p-4 animate-fadeIn opacity-0"
         style={{animationDelay: "1.2s"}}
       >
         <a href="https://github.com/kamildevp" target="_blank">

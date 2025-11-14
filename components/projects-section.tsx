@@ -5,7 +5,7 @@ export default function ProjectsSection() {
   return (
     <div className="flex flex-col items-center mx-4">
       <div className="text-center">
-        <span className="text-xl md:text-2xl font-bold animate-fadeIn opacity-0"
+        <span className="text-lg md:text-xl animate-fadeIn opacity-0"
           style={{animationDelay: "1.2s"}}
         >
           My Projects

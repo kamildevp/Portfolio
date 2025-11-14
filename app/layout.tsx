@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
-import { Ubuntu } from "next/font/google";
+import { Zen_Dots } from "next/font/google";
 import "./globals.css";
 import PageBackground from "@/components/page-background";
 import ScrollTop from "@/components/scroll-top";
 
-const ubuntuSans = Ubuntu({
-  variable: "--font-ubuntu-sans",
-  weight: "300",
+const zenDotsSans = Zen_Dots({
+  variable: "--font-zen_dots-sans",
+  weight: "400",
   subsets: ["latin"],
 });
 
@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html className="h-full">
       <body
-        className={`${ubuntuSans.variable} antialiased h-full`}
+        className={`${zenDotsSans.variable} antialiased h-full`}
       >
         <ScrollTop />
         <PageBackground />
