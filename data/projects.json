@@ -1,5 +1,16 @@
 [
     {
+        "name": "Booxit Frontend [In progress]",
+        "description": "Frontend for appointment scheduling platform",
+        "githubLink": "https://github.com/kamildevp/booxit-frontend",
+        "techStack": [
+            "Nuxt",
+            "TypeScript",
+            "Tailwind CSS",
+            "Docker"
+        ]
+    },
+    {
         "name": "Booxit Backend",
         "description": "RESTful API for appointment scheduling platform",
         "githubLink": "https://github.com/kamildevp/booxit-backend",
@@ -24,16 +35,6 @@
         ]
     },
     {
-        "name": "Booxit Frontend [In progress]",
-        "description": "Frontend for appointment scheduling platform",
-        "techStack": [
-            "Nuxt",
-            "TypeScript",
-            "Tailwind CSS",
-            "Docker"
-        ]
-    },
-        {
         "name": "CookSpot",
         "description": "A web app for managing and sharing cooking recipes",
         "githubLink": "https://github.com/kamildevp/CookSpot",
