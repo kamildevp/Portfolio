@@ -2,6 +2,7 @@ services:
   node:
     build:
       context: docker/node
+    restart: unless-stopped
     volumes:
       - .:/app
       - /app/.git
